@@ -84,4 +84,4 @@ $ git config --global user.email johndoe@example.com
 
 Sample Assignment: [https://classroom.github.com/a/eGrKvzEA](https://classroom.github.com/a/eGrKvzEA)
 
-Follow instructions to complete your forst GitHub assignment
+Follow instructions to complete your first GitHub assignment
