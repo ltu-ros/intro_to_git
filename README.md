@@ -77,3 +77,11 @@ $ git config --global user.email johndoe@example.com
 # `git push` and `git pull` 
 
 ![center](imgs/push_pull.jpg)
+
+---
+
+# GitHub assignments
+
+Sample Assignment: [https://classroom.github.com/a/eGrKvzEA](https://classroom.github.com/a/eGrKvzEA)
+
+Follow instructions to complete your forst GitHub assignment
